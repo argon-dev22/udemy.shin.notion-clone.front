@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/notion-clone-fr/static/css/main.31d6cfe0.css",
-    "main.js": "/notion-clone-fr/static/js/main.2c160357.js",
+    "main.js": "/notion-clone-fr/static/js/main.2c628c40.js",
     "index.html": "/notion-clone-fr/index.html",
-    "main.2c160357.js.map": "/notion-clone-fr/static/js/main.2c160357.js.map"
+    "main.2c628c40.js.map": "/notion-clone-fr/static/js/main.2c628c40.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.2c160357.js"
+    "static/js/main.2c628c40.js"
   ]
 }
