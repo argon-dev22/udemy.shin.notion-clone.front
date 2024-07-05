@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/notion-clone-fr/static/css/main.31d6cfe0.css",
-    "main.js": "/notion-clone-fr/static/js/main.3a80f6f8.js",
-    "index.html": "/notion-clone-fr/index.html",
-    "main.3a80f6f8.js.map": "/notion-clone-fr/static/js/main.3a80f6f8.js.map"
+    "main.css": "/notion-clone-fr/login/static/css/main.31d6cfe0.css",
+    "main.js": "/notion-clone-fr/login/static/js/main.3a80f6f8.js",
+    "index.html": "/notion-clone-fr/login/index.html",
+    "main.3a80f6f8.js.map": "/notion-clone-fr/login/static/js/main.3a80f6f8.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
