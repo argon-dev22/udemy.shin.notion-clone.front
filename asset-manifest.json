@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/notion-clone-fr/static/css/main.31d6cfe0.css",
+    "main.js": "/notion-clone-fr/static/js/main.a9235698.js",
+    "index.html": "/notion-clone-fr/index.html",
+    "main.a9235698.js.map": "/notion-clone-fr/static/js/main.a9235698.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.a9235698.js"
+  ]
+}
