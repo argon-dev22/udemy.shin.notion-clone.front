@@ -14,7 +14,7 @@ const Header = () => {
         }}
       >
         <img
-          src="/assets/images/notion-logo.png"
+          src="notion-logo.png"
           style={{ width: 100, margin: 100, marginBottom: 3 }}
         />
         Notion
